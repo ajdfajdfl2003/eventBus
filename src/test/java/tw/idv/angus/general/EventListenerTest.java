@@ -1,7 +1,8 @@
-package tw.idv.angus;
+package tw.idv.angus.general;
 
 import org.greenrobot.eventbus.EventBus;
 import org.junit.Test;
+import tw.idv.angus.general.EventListener;
 
 import static org.junit.Assert.assertEquals;
 

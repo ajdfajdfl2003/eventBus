@@ -1,4 +1,4 @@
-package tw.idv.angus;
+package tw.idv.angus.general;
 
 import lombok.Getter;
 import org.greenrobot.eventbus.Subscribe;
